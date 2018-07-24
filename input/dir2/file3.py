@@ -1,10 +1,10 @@
 import threading
 
-def f3():
+def fc():
 	print "dir2.file3.f3: Hello world"
 
-def f4():
+def fd():
 	pass
 
-def f5():
+def fe():
 	pass

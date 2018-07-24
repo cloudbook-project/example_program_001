@@ -1,5 +1,5 @@
 import file2
 
-def f1():
+def fa():
 	for i in range(1,10):
-		file2.f2()
+		file2.fb()

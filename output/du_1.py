@@ -5,10 +5,10 @@ def f1():
 	for i in range(1,10):
 		hola = f2()
 
-	return 'cloudbook' 
+	return 'cloudbook: done' 
 
 def f2():
-	print "dir1.file2.f2: hello world"
+	invoker("du_0.cloudbook_print('dir1.file2.f2: hello world')")
 	
-	return 'cloudbook' 
+	return 'cloudbook: done' 
 
